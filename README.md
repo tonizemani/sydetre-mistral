@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#features-✨"><strong>Features</strong></a> ·
+  <a href="#features-📋"><strong>Features</strong></a> ·
   <a href="#dataset-and-model-training-📊"><strong>Dataset and Model Training</strong></a> ·
   <a href="#fine-tuning-process-🛠️"><strong>Fine-Tuning Process</strong></a> ·
   <a href="#wandb-results-📈"><strong>WandB Results</strong></a> ·
@@ -21,7 +21,7 @@
 
 When dealing with medical datasets you will notice that data related to drugs and medications for diseases are highly secretive. For this reason we decided to collect our own dataset with qna pairs about treating certain illnesses. 
 
-## Features ✨
+## Features 📋
 
 - 🩺 Symptom detection
 - 💊 Treatment recommendations
