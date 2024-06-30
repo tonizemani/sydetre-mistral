@@ -1,5 +1,5 @@
 <a href="https://chat.vercel.ai/">
-  <h1 align="center">SyDeTre - 🩺 Symptom Detection andd Treatment Medical Chatbot 💬</h1>
+  <h1 align="center">🩺 SyDeTre - Symptom Detection and Treatment Medical Chatbot </h1>
 </a>
 
 <p align="center">
@@ -33,7 +33,7 @@ The fine-tuning process was conducted using the Mistral fine-tuning API.
 
 ## Fine-Tuning Process 🛠️
 
-The fine-tuning process for SyDeTre involves using the Mistral fine-tuning API with a combination of generated and MIT license datasets. The `finetune/` folder includes all necessary scripts and configuration files for replicating the fine-tuning process.
+The fine-tuning process for SyDeTre involves using the Mistral fine-tuning API with a combination of generated and MIT license datasets. The `lib/finetuning/` folder includes all necessary scripts for replicating the fine-tuning process.
 
 ## WandB Results 📈
 
@@ -56,7 +56,10 @@ The fine-tuning results can be found here:
     cd sydetre
     ```
 
-2. Install dependencies:
+2. Preparation and install dependencies:
+
+    -Remove the lib/finetuning folder
+
     ```bash
     yarn install
     # or
