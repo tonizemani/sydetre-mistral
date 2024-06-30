@@ -7,10 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
-  <a href="#dataset-and-model-training"><strong>Dataset and Model Training</strong></a> ·
-  <a href="#fine-tuning-process"><strong>Fine-Tuning Process</strong></a> ·
-  <a href="#getting-started"><strong>Getting Started</strong></a>
+  <a href="#features-✨"><strong>Features</strong></a> ·
+  <a href="#dataset-and-model-training-📊"><strong>Dataset and Model Training</strong></a> ·
+  <a href="#fine-tuning-process-🛠️"><strong>Fine-Tuning Process</strong></a> ·
+  <a href="#wandb-results-📈"><strong>WandB Results</strong></a> ·
+  <a href="#getting-started-🚀"><strong>Getting Started</strong></a> ·
+  <a href="#license-📜"><strong>License</strong></a>
 </p>
 
 <br/>
@@ -58,7 +60,7 @@ The fine-tuning results can be found here:
 
 2. Preparation and install dependencies:
 
-    -Remove the lib/finetuning folder
+    - Remove the `lib/finetuning` folder
 
     ```bash
     yarn install
