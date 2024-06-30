@@ -17,6 +17,10 @@
 
 <br/>
 
+## Why we chose this
+
+When dealing with medical datasets you will notice that data related to drugs and medications for diseases are highly secretive. For this reason we decided to collect our own dataset with qna pairs about treating certain illnesses. 
+
 ## Features ✨
 
 - 🩺 Symptom detection
