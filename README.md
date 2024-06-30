@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  This is a submission for the [mistral finetuning hackathon](https://mistral.ai/news/2024-ft-hackathon), a Mistral fine-tuned model for symptom detection and treatment recommendations.
+  This is a submission for the <a href="https://mistral.ai/news/2024-ft-hackathon">mistral finetuning hackathon</a>, a Mistral fine-tuned model for symptom detection and treatment recommendations.
 </p>
 
 <p align="center">
