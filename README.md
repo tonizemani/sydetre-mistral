@@ -1,9 +1,9 @@
 <a href="https://chat.vercel.ai/">
-  <h1 align="center">🩺 SyDeTre - Symptom Detection and Treatment Medical Chatbot </h1>
+  <h1 align="center">🩺 SyDeTre - Symptom Detection and Treatment LLM </h1>
 </a>
 
 <p align="center">
-  An open-source medical chatbot interface built with Next.js, for a Mistral fine-tuned model for symptom detection and treatment recommendations.
+  This is a submission for the [mistral finetuning hackathon](https://mistral.ai/news/2024-ft-hackathon/), a Mistral fine-tuned model for symptom detection and treatment recommendations.
 </p>
 
 <p align="center">
